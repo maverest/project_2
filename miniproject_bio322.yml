@@ -1,0 +1,13 @@
+name: miniproject_bio322
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - torch
+  - tqdm
+  - seaborn
+  - statsmodels
+
